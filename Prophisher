@@ -1,7 +1,7 @@
 echo "# Phishers-Termux" >> Prophisher.md
 git init
 git add Prophisher.md
-git commit -m "first commit"
+git commit -m "pkg install Prophisher"
 git branch -M main
 git remote add origin https://github.com/Hacker-termux-kurd/Phishers-Termux.git
-git push -u origin main
+git push -u original main
